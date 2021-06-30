@@ -1,3 +1,0 @@
-pkg_for_ros/personalInfo PersonalData
-string Job_DoneORNot
-

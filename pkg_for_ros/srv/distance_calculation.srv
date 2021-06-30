@@ -1,6 +1,0 @@
-int32 point1x
-int32 point1y
-int32 point2x
-int32 point2y
----
-float32 distance
